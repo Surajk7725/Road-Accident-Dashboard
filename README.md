@@ -23,3 +23,6 @@ The Road Accident Dashboard is a visual representation of road accident data, pr
 
 6. **Graphs comparing present year, previous year, and Select Accident Severity:**
    - Provides comparative insights by presenting graphs that compare the current year's data with the previous year's and allows selecting specific accident severities for detailed analysis.
+
+
+![Screenshot 2023-11-28 122519](https://github.com/Surajk7725/Road-Accident-Dashboard/assets/114910241/d05aae8c-1f2a-46c3-bc99-54462558c684)
